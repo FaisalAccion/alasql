@@ -22,11 +22,11 @@
     "CSV",
     "worker"
   ],
-  "authors": ["Andrey Gershun <agershun@gmail.com>"],
+  "authors": ["Faisal Sayed <faisal.sayed@accionlabs.com>"],
   "homepage": "alasql.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agershun/alasql.git"
+    "url": "https://github.com/FaisalAccion/alasql.git"
   },
   "dependencies": {
     "js-xls": "~0.7.5",
