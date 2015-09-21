@@ -11801,8 +11801,7 @@ alasql.fn.Boolean = Boolean;
 /** Extend Object with properties */
 stdfn.EXTEND = alasql.utils.extend;
 
-
-stdfn.CHAR = String.fromCharCode.bind(String);
+//stdfn.CHAR = String.fromCharCode.bind(String);
 stdfn.ASCII = function(a) {
     return a.charCodeAt(0);
 };
